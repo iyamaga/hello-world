@@ -3,4 +3,6 @@
 from platform import python_version
 from __future__ import print_function
 
-print("Hello world", python_version)
+print("Hello python", python_version())
+
+# Hello world 3.6.3
